@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Font</title>
+</head>
+<body>
+    <h1>Main Heading</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu quam eu
+        mauris rutrum sagittis. Sed eros sapien, lobortis feugiat ipsum eget, 
+        lacinia pharetra orci. Nulla at mattis nibh. Vestibulum blandit leo eros.
+        Nulla congue felis aliquam vestibulum aliquam. Fusce turpis ipsum, 
+        consequat et purus vitae, faucibus facilisis erat. Curabitur iaculis
+        viverra ex. In hac habitasse platea dictumst. Vestibulum ante ipsum
+        primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla
+        sed ullamcorper tortor, id feugiat tellus. Suspendisse luctus sem vel
+        urna luctus tristique. Nulla facilisi. Pellentesque lobortis risus risus,
+        sit amet viverra magna imperdiet sit amet. In eu venenatis nibh, 
+        sit amet feugiat ipsum.
+
+        Sed ultrices ligula magna, et blandit ex efficitur nec. Aliquam varius
+        nec dolor et maximus. Praesent dapibus vehicula rhoncus. Nulla est justo,
+        dignissim sed lacus sed, lobortis tincidunt elit. Pellentesque habitant
+        morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+        Aenean pellentesque magna a blandit facilisis. Phasellus ullamcorper 
+        tortor justo, in aliquet nulla vehicula nec. Nam placerat pharetra 
+        augue at consequat. Orci varius natoque penatibus et magnis dis parturient 
+        montes, nascetur ridiculus mus. Nunc nunc eros, dignissim non laoreet quis,
+        semper et dolor. In est ligula, imperdiet vel ex at, tristique pulvinar
+        nulla. Cras sit amet tortor ac est vehicula tristique. In aliquam eleifend
+        justo, eu pellentesque velit ullamcorper ac.</p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}

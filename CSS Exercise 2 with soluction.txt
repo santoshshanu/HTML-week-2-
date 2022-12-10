@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.CSS">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <h1>My Website</h1>
+    <section class="about-me">
+        <h3>Something about me</h3>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odit quisquam aliquam quo! Nemo, nobis? Optio in perferendis sapiente cupiditate nihil et. Quos numquam accusamus perspiciatis error cum aperiam qui illum?</p>
+
+
+
+    </section>
+    <section class="about-lilly">
+        <h3>Something about lilly</h3>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odit quisquam aliquam quo! Nemo, nobis? Optio in perferendis sapiente cupiditate nihil et. Quos numquam accusamus perspiciatis error cum aperiam qui illum?</p>
+        
+
+
+    </section>
+
+    </div>
+    
+</body>
+</html>
+
+
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins:ital,wght@0,500;1,300;1,400&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    width: 1400px;
+    border: 2px solid red;
+    margin: 0
+}
+
+h1{
+    background-color: #cdcdcd;
+    text-align: center;
+    padding: 15px 0px;
+}
+
+section{
+    border: 2px solid #666;
+    padding: 10px;
+}
+
+.about-me{
+    margin-bottom: 40px;
+}
+section h3{
+    text-transform: uppercase;
+    color: #444
+}
+

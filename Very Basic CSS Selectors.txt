@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.CSS">
+    <title>CSS Selectors</title>
+</head>
+<body>
+    <div id="main-heading">
+        <h1>Main Heading</h1>
+    </div>
+
+    <div class="main-section">
+        <h2>Sub Heading</h2>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deleniti dolor rem doloremque ex recusandae corrupti laborum ratione. Velit, officia ullam maxime magnam saepe dolor consequuntur quis voluptatum nostrum quam quasi est laborum facere corrupti odit a. Laboriosam at tenetur tempore corporis, voluptatum et provident cupiditate consequatur expedita ut illum cumque odit aut amet culpa praesentium quas hic nemo laborum. Aperiam numquam magni similique eius aliquid quaerat, pariatur provident corporis alias. Fugit rem molestias doloribus voluptates nisi delectus facere fuga maiores dicta vitae consectetur id dolorem, laudantium atque, sequi in magnam tempora amet quaerat nulla quas tempore quis beatae. Dolor expedita possimus quis aliquid? Tempore, provident? Ad non repellendus excepturi enim rerum nostrum? Ducimus consequatur tempora accusantium corrupti distinctio vitae? Beatae, numquam, temporibus veritatis voluptates asperiores ratione debitis aperiam culpa quod delectus laboriosam, rem ex nobis. Aperiam fugiat porro nisi atque, pariatur quod quibusdam similique consectetur, non nostrum voluptatum, ipsam iure tenetur veritatis deserunt velit ipsa possimus minima. Nulla, ad corrupti labore vel maiores enim rerum commodi! Voluptatum eum dolores quasi ad et. Quis sed ab, est odio a optio quisquam sapiente dicta consequuntur porro laboriosam aperiam perferendis harum asperiores. Praesentium accusantium quos impedit quisquam saepe magni molestias nisi doloremque incidunt quo nulla, architecto dolorem voluptas sequi accusamus. Numquam ipsam sint repudiandae tempora libero et fuga natus nesciunt fugit iusto, nostrum voluptas quos modi cumque porro aliquid sequi magnam minima tenetur quaerat incidunt aspernatur adipisci! Expedita nobis recusandae, quidem laudantium velit inventore animi maxime vitae porro. Esse vitae amet modi, sapiente similique harum dolores necessitatibus culpa hic nisi doloribus voluptatibus ducimus omnis ad fugiat eum. Blanditiis omnis ducimus, error ratione placeat impedit veritatis eos ipsam quos eum nisi itaque voluptate totam sapiente sint ex odit odio at deleniti! Vel nobis voluptatum quas eveniet pariatur nisi. Modi iure autem praesentium eos cupiditate.</p>
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#main-heading{
+    background-color: #cdcdcd;
+}
+
+.main-section{
+    background-color: #efefef;
+}
+
+p{
+    color:aliceblue;
+}

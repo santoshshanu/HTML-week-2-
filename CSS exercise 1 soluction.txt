@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.CSS">
+    <title>My Website</title>
+</head>
+<body>
+    <div class="main-header">
+        <h1 class="secondary">Main Header</h1>
+        <ul>
+            <li>item</li>
+            <li>item</li>
+            <li>item</li>
+        </ul>
+    </div>
+    
+    <div class="main-section">
+        <h3 class="secondary">My First Blog</h3>
+        <p>Lorem ipsum, <span>dolor sit amet</span>consectetur adipisicing elit. Aperiam cum excepturi officiis ullam alias placeat nam doloribus provident sed, libero soluta eos deleniti eligendi culpa quam dolor accusantium ratione accusamus laborum ea optio quisquam assumenda quae. Soluta tempora excepturi consequatur dolore magni optio dolores porro molestiae nobis, laborum libero illum similique quaerat inventore, perspiciatis ad omnis cumque eligendi expedita eum aliquid perferendis ipsa. Ad quae quasi repellendus, sit pariatur accusantium eos eum, error quas veniam laboriosam facilis fugiat, dignissimos ducimus quidem accusamus nemo provident quia rerum labore vel distinctio. Omnis dolorum quae non vitae nihil iste optio, error dolore? Dolores quaerat, quisquam vel ea eveniet molestias molestiae harum est sint architecto nobis sapiente reiciendis obcaecati et, aut voluptatibus magnam repellat sequi esse in possimus voluptatum, veniam aliquam qui? A deleniti voluptas possimus hic, nostrum accusantium incidunt alias veritatis quis nam beatae molestiae ratione voluptates adipisci temporibus in harum iure tempora, qui, dolorum maiores vel nisi. Nisi itaque accusamus similique! Delectus nihil porro possimus odit obcaecati doloribus earum, dignissimos omnis consectetur quibusdam? Odit suscipit corrupti qui ipsa ex vel quibusdam nam nobis tenetur laboriosam laborum odio culpa quis laudantium, obcaecati maxime. Facilis adipisci quasi nisi ex, fugiat quo aut hic doloribus.</p>
+        <h3 class="secondary">My Second Blog</h3>
+        <p>Lorem ipsum, dolor sit <span>amet</span> consectetur adipisicing elit. Aperiam cum excepturi officiis ullam alias placeat nam doloribus provident sed, libero soluta eos deleniti eligendi culpa quam dolor accusantium ratione accusamus laborum ea optio quisquam assumenda quae. Soluta tempora excepturi consequatur dolore magni optio dolores porro molestiae nobis, laborum libero illum similique quaerat inventore, perspiciatis ad omnis cumque eligendi expedita eum aliquid perferendis ipsa. Ad quae quasi repellendus, sit pariatur accusantium eos eum, error quas veniam laboriosam facilis fugiat, dignissimos ducimus quidem accusamus nemo provident quia rerum labore vel distinctio. Omnis dolorum quae non vitae nihil iste optio, error dolore? Dolores quaerat, quisquam vel ea eveniet molestias molestiae harum est sint architecto nobis sapiente reiciendis obcaecati et, aut voluptatibus magnam repellat sequi esse in possimus voluptatum, veniam aliquam qui? A deleniti voluptas possimus hic, nostrum accusantium incidunt alias veritatis quis nam beatae molestiae ratione voluptates adipisci temporibus in harum iure tempora, qui, dolorum maiores vel nisi. Nisi itaque accusamus similique! Delectus nihil porro possimus odit obcaecati doloribus earum, dignissimos omnis consectetur quibusdam? Odit suscipit corrupti qui ipsa ex vel quibusdam nam nobis tenetur laboriosam laborum odio culpa quis laudantium, obcaecati maxime. Facilis adipisci quasi nisi ex, fugiat quo aut hic doloribus.</p>
+
+    </div>
+</body>
+</html>
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.main-header{
+    background-color: #d0d6d5;
+}
+.main-section{
+    background-color: #e0e0e0;
+}
+.secondary{
+    color: #00705c;
+}
+span{
+    background-color: aquamarine;
+}

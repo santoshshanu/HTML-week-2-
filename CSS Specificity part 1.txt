@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.CSS">
+    <title>specificity</title>
+</head>
+<body>
+    <h1 class="h1class heading" id="h1id">
+        hello
+    </h1>
+
+</body>
+</html>
+
+
+
+
+
+/* inline style attribute > id selector > class selector > element selector */
+
+h1{
+    color: green;
+}
+
+h1.heading{
+    color: magenta;
+}
+
+.h1class{
+    color: red;
+}
+
+/* #h1id{
+    color: blue;
+} */
